@@ -4,7 +4,8 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  hash1 = { symbolA: "porcupine", symbolB: "Yahtzee!" }
+  hash1 # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
